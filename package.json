@@ -1,12 +1,24 @@
 {
-  "name": "my-npm-test-package",
-  "version": "1.0.0",
-  "description": "",
+  "name": "my-wild-cool-thing",
+  "version": "1.0.1",
+  "description": "A test NPM package to demonstrate publishing to NPM.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSeiferth/RFsignupXX.git"
+  },
+  "keywords": [
+    "test",
+    "npm",
+    "package"
+  ],
+  "author": "Jonas Seiferth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JSeiferth/RFsignupXX/issues"
+  },
+  "homepage": "https://github.com/JSeiferth/RFsignupXX#readme"
 }
