@@ -1,2 +1,2 @@
 [registries]
-github = { index = "https://npm.pkg.github.com/JSeiferth" }
+github = { index = "https://github.com/rust-lang/crates.io-index" }
