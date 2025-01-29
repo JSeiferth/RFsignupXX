@@ -1,16 +1,14 @@
 [package]
-name = "rfsignupxx"                # The name of your crate
-version = "0.1.0"                  # Initial version
-authors = ["JSeiferth <your_email@example.com>"]  # Replace with your email
-edition = "2021"                   # Specify the Rust edition
+name = "rfsignupxx"
+version = "0.1.1"
+authors = ["JSeiferth <your_email@example.com>"]
+edition = "2021"
+license = "MIT OR Apache-2.0"
 description = "A test package for RFsignup functionality."
-license = "MIT OR Apache-2.0"      # Add the licenses you're using
 repository = "https://github.com/JSeiferth/RFsignupXX"
 homepage = "https://github.com/JSeiferth/RFsignupXX"
-readme = "README.md"               # Include a README file
-keywords = ["signup", "example", "crate"]  # Keywords for crates.io
-categories = ["development-tools", "algorithms"]  # Categories for crates.io
-documentation = "https://github.com/JSeiferth/RFsignupXX"  # Documentation URL
-
-[dependencies]
-# Add dependencies here, if needed
+readme = "README.md"
+keywords = ["signup", "example", "crate"]
+categories = ["development-tools", "algorithms"]
+documentation = "https://docs.rs/rfsignupxx"
+registry = "github" # Add this line to specify GitHub as the registry
