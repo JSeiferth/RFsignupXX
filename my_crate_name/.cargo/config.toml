@@ -1,0 +1,2 @@
+[registries]
+github = { index = "https://npm.pkg.github.com/JSeiferth" }
